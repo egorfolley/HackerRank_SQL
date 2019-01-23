@@ -1,2 +1,1 @@
-# HackerRank_SQL
-Specialized skills in SQL from Hacker Rank
+# HackerRank SQL problems 
