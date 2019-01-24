@@ -1,1 +1,1 @@
-# HackerRank SQL problems 
+# HackerRank SQL practice
